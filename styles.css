@@ -1,0 +1,13 @@
+.black-cat{
+    border-width:10px;
+    border-style:dotted;
+    border-color:grey;
+    width:75px; 
+    }
+.sun-width{
+    width:50px;
+    }
+.sun-color{
+    overflow:visible;
+    background-color: beige
+}    
