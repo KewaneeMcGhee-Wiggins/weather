@@ -1,13 +1,27 @@
 .black-cat{
-    border-width:10px;
+    border-width:5px;
     border-style:dotted;
     border-color:grey;
-    width:75px; 
+    background:white;
+    width:300px; 
     }
+    
 .sun-width{
-    width:50px;
+    width:25px;
+}
+
+    .sun-color{
+background-color:lightgoldenrodyellow;
+}
+
+.cloudy-color{
+    background-color:lightgrey;
     }
-.sun-color{
-    overflow:visible;
-    background-color: beige
-}    
+    h1{
+        font-size: xx-large;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font: weight 900;
+    }
+    p{
+        font-weight:bold;
+    }
